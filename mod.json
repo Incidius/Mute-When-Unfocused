@@ -8,10 +8,11 @@
 	},
 	"id": "incidius.mute-when-unfocused",
 	"name": "Mute When Unfocused",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "Incidius",
 	"description": "Mutes sound from GD when not focused on the game",
 	"dependencies": {
 		"geode.node-ids": ">=v1.20.0"
-	}
+	},
+	"tags": ["utility", "bugfix", "music"]
 }
